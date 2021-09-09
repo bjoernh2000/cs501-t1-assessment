@@ -11,7 +11,7 @@ __pycache__
 .DS_Store
 env.sh
 
-# Add SQLITE DB
-diagnostic
-diagnostic_test
-diagnostic_test.db
+# # Add SQLITE DB
+# diagnostic
+# diagnostic_test
+# diagnostic_test.db
